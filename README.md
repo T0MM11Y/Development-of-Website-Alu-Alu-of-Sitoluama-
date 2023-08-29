@@ -10,7 +10,6 @@ tambahan fitur alualu yaitu pengekspresian kepada orang banyak. Dengan memanfaat
 ke dalam karya digital saya, menggunakan  bahasa pemrograman PHP , terdapat dua section berbeda namun saling berhubungan: bagian Pengguna dan Admin, masing-masing
 memancarkan aura tujuannya sendiri.
 
-##SECTION USER 
 
 ![alt text](https://github.com/T0MM11Y/PROJEKWEBPA1ITDEL/blob/main/alusitol/public/fotomd/Screenshot%20(123).png?raw=true)
 
@@ -29,8 +28,6 @@ memancarkan aura tujuannya sendiri.
 ![alt text](https://github.com/T0MM11Y/PROJEKWEBPA1ITDEL/blob/main/alusitol/public/fotomd/Screenshot%20(129).png?raw=true)
 
 ![alt text](https://github.com/T0MM11Y/PROJEKWEBPA1ITDEL/blob/main/alusitol/public/fotomd/Screenshot%20(130).png?raw=true)
-
-##SECTION ADMIN 
 
 ![alt text](https://github.com/T0MM11Y/PROJEKWEBPA1ITDEL/blob/main/alusitol/public/fotomd/Screenshot%20(131).png?raw=true)
 
