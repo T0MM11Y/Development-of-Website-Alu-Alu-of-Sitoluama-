@@ -1,7 +1,7 @@
   <!-- Modal Login -->
   <div id="loginModal" class="modal fade" tabindex="-1" role="dialog" data-backdrop="static" data-keyboard="false">
       <div class="modal-dialog" role="document">
-          <div class="modal-content" style="width: 80%;">
+          <div class="modal-content" style="width: 80%;margin: 0 auto">
               <div class="modal-body">
                   <p class="form-title custom-title">Login</p>
                   <form class="form-horizontal mt-3" action="{{ route('admin.login') }}" method="POST">
@@ -90,7 +90,7 @@
   <!-- Modal Register -->
   <div id="registerModal" class="modal fade" tabindex="-1" role="dialog" data-backdrop="static" data-keyboard="false">
       <div class="modal-dialog" role="document">
-          <div class="modal-content" style="width: 80%;">
+          <div class="modal-content" style="width: 80%;margin: 0 auto">
               <div class="modal-body">
                   <p class="form-title custom-title">Register</p>
                   <form id="registerForm" class="form-horizontal mt-3" method="POST" action="{{ route('register') }}">
