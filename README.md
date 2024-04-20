@@ -1,4 +1,4 @@
-# PROJEKWEBPA1ITDEL
+🌐🖥️Development-of-Website-Alu-Alu-of-Sitoluama
 
 In this context, I started the PA 1 project in my college creating an attractive village website which involves
 building a sophisticated website with the added feature of alualu i.e. expressing it to crowds. Taking advantage of the dynamic capabilities of the Laravel framework, 
